@@ -1,16 +1,16 @@
 PT
 
-- 👋 Ola, Sou Diego Gabriel e atualmente sou aluno de ciencias da computação no Instituto Federal do Norte de Minas Gerais.
-- 👀 Tenho interesse em desenvolvimento de software, back-end e em desenvolvimento de jogos. 
-- 🌱 Atualmente estou aprendendo sobre web, utilizando Java
-- 📫 Para entrar em contato, sinta-se livre em me mandar um email: dgmagalhaesbarbosa@gmail.com
+- 👋 Olá, sou Diego Gabriel e atualmente sou aluno de ciências da computação no Instituto Federal do Norte de Minas Gerais.
+- 👀 Tenho interesse em desenvolvimento de software, backend e em desenvolvimento de jogos. 
+- 🌱 Atualmente estou aprendendo sobre web, utilizando Java.
+- 📫 Para entrar em contato, sinta-se livre em me mandar um email: dgmagalhaesbarbosa@gmail.com.
 
 EN
 
 - 👋 Hi, I’m Diego Gabriel and I'm currently a computer science student at Instituto Federal do Norte de Minas Gerais.
 - 👀 I'm interested in software development, backend and game development.
-- 🌱 I'm currently learning about web, using Java
-- 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com 
+- 🌱 I'm currently learning about web, using Java.
+- 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com.
 
 
 
