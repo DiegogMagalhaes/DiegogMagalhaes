@@ -12,8 +12,9 @@ EN
 - 🌱 I'm currently learning about web, using Java.
 - 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com.
 
+<p align="center">
 ![](mugi.gif)
-
+</p>
 
 <!---
 DiegogMagalhaes/DiegogMagalhaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
