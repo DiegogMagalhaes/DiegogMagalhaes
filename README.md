@@ -12,6 +12,7 @@ EN
 - 🌱 I'm currently learning about web, using Java.
 - 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com.
 
+![](mugi.gif)
 
 
 <!---
