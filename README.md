@@ -13,7 +13,7 @@ EN
 - 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com.
 
 <p align="center">
-![](mugi.gif)
+<img src="mugi.gif" alt="animated" />
 </p>
 
 <!---
