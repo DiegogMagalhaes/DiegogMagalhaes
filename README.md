@@ -20,7 +20,7 @@ EN
 - 🌱 I'm currently learning about Godot.
 - 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com.
 
-<img src="https://github.com/DiegogMagalhaes/DiegogMagalhaes/blob/main/lain.gif" alt="Let's all love lain" style="width:800px;height:800px;">
+<img src="https://github.com/DiegogMagalhaes/DiegogMagalhaes/blob/main/lain.gif" alt="Let's all love lain" style="width:800px;height:400px;">
 
 <!---
 DiegogMagalhaes/DiegogMagalhaes is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
