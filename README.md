@@ -10,19 +10,19 @@
     <samp>
       PT
 
-      - 👋 Olá, sou Diego Gabriel e atualmente sou aluno de ciências da computação no Instituto Federal do Norte de Minas Gerais.
-      - 👀 Tenho interesse em desenvolvimento de software, backend, mobile e em desenvolvimento de jogos. 
-      - 🌱 Atualmente estou aprendendo sobre Godot.
-      - 📫 Para entrar em contato, sinta-se livre em me mandar um email: dgmagalhaesbarbosa@gmail.com.
+- 👋 Olá, sou Diego Gabriel e atualmente sou aluno de ciências da computação no Instituto Federal do Norte de Minas Gerais.
+- 👀 Tenho interesse em desenvolvimento de software, backend, mobile e em desenvolvimento de jogos. 
+- 🌱 Atualmente estou aprendendo sobre Godot.
+- 📫 Para entrar em contato, sinta-se livre em me mandar um email: dgmagalhaesbarbosa@gmail.com.
 
 
 
-      EN
+EN
 
-      - 👋 Hi, I’m Diego Gabriel and I'm currently a computer science student at Instituto Federal do Norte de Minas Gerais.
-      - 👀 I'm interested in software development, backend, mobile and game development.
-      - 🌱 I'm currently learning about Godot.
-      - 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com.
+- 👋 Hi, I’m Diego Gabriel and I'm currently a computer science student at Instituto Federal do Norte de Minas Gerais.
+- 👀 I'm interested in software development, backend, mobile and game development.
+- 🌱 I'm currently learning about Godot.
+- 📫 To reach me, feel free to email me: dgmagalhaesbarbosa@gmail.com.
 
     </samp>
   </p>
