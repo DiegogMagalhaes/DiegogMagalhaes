@@ -31,10 +31,7 @@ EN
     <td style="width: 50%; vertical-align: top;">
     <p style="font-family: monospace; font-size: 16px;">
            
-     __             __              
-    |  \. _ _  _   / _  _ |_  _. _| 
-    |__/|(-(_)(_)  \__)(_||_)| |(-| 
-           _/                                
+    𝙳𝚒𝚎𝚐𝚘 𝙶𝚊𝚋𝚛𝚒𝚎𝚕                            
 </p>
     
     /About_Me
