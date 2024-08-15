@@ -29,10 +29,9 @@ EN
        <img src="https://github.com/DiegogMagalhaes/DiegogMagalhaes/blob/main/chidori.jpeg" alt="Let's all love lain" style=" width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-    <p style="font-family: monospace; font-size: 64px;">
-           
-    𝙳𝚒𝚎𝚐𝚘 𝙶𝚊𝚋𝚛𝚒𝚎𝚕                            
-</p>
+    <p style="font-family: monospace; font-size: 16px;">
+      <h1>𝙳𝚒𝚎𝚐𝚘 𝙶𝚊𝚋𝚛𝚒𝚎𝚕</h1>                            
+    </p>
     
     /About_Me
     │
