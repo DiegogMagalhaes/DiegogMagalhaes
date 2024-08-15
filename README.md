@@ -25,10 +25,10 @@ EN
 
 <table>
   <tr>
-    <td style="width: 80%;">
+    <td style="width: 50%;">
        <img src="https://github.com/DiegogMagalhaes/DiegogMagalhaes/blob/main/chidori.jpeg" alt="Let's all love lain" style=" width: 200%; border: none;"/>
     </td>
-    <td style="width: 20%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top;">
 
     /About_Me
     │
