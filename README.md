@@ -43,7 +43,6 @@ EN
     ├── /languages
     │   ├── java
     │   ├── dart
-    │   ├── python
     │   ├── C#
     │   ├── C++
     │   └── C
