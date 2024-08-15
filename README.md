@@ -29,7 +29,15 @@ EN
        <img src="https://github.com/DiegogMagalhaes/DiegogMagalhaes/blob/main/chidori.jpeg" alt="Let's all love lain" style=" width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-
+    <p style="font-family: monospace; font-size: 16px;">
+       
+       
+    ┳┓•        ┏┓  ┓   •  ┓
+    ┃┃┓┏┓┏┓┏┓  ┃┓┏┓┣┓┏┓┓┏┓┃
+    ┻┛┗┗ ┗┫┗┛  ┗┛┗┻┗┛┛ ┗┗ ┗
+          ┛                
+</p>
+    
     /About_Me
     │
     ├── /bio
