@@ -26,7 +26,7 @@ EN
 <table>
   <tr>
     <td style="width: 80%;">
-       <img src="https://github.com/DiegogMagalhaes/DiegogMagalhaes/blob/main/lain.gif" alt="Let's all love lain" style=" width: 200%; border: none;"/>
+       <img src="https://github.com/DiegogMagalhaes/DiegogMagalhaes/blob/main/lain.gif" alt="Let's all love lain" style=" width: 100%; border: none;"/>
     </td>
     <td style="width: 20%; vertical-align: top;">
 
