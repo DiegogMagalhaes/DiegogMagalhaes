@@ -48,7 +48,6 @@ EN
     │   └── C
     │
     └── /learning
-        ├── php/laravel
         ├── godot
         ├── python
         └── openGL
