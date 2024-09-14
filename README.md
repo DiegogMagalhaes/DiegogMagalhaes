@@ -40,6 +40,10 @@ EN
     │   ├── /studying computer science at IFNMG
     │   └── /working with web development in jakarta
     │
+    ├── /contact me
+    │  ├── <a href="mailto:dgmagalhaesbarbosa@gmail.com ">e-mail</a>
+    │  └── <a href="www.linkedin.com/in/diego-gabriel-magalhaes-barbosa-486360225">linkedin</a>
+    │
     ├── /languages
     │   ├── java
     │   ├── dart
