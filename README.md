@@ -38,7 +38,7 @@ EN
     ├── /bio
     │   ├── 24 years old - brazilian 
     │   ├── /studying computer science at IFNMG
-    │   └── /working with web development in jakarta
+    │   └── /worked with web development in Jakarta
     │
     ├── /languages
     │   ├── java
